@@ -1,12 +1,20 @@
-## Hi there 👋
+## Welcome to the Eleazars organization
 
-<!--
+Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!
 
-**Here are some ideas to get you started:**
+## Organization Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details><summary>📖 Repositories</summary>
+
+| Name | Description | Stars | Latest Commit |
+| ---- | --- | ----------- | ------------- |
+| [repo3](https://github.com/EleazarNathanOrg/repo3) | <no description> | 1 | 2025-04-30T04:27:28Z |
+| [repo1](https://github.com/EleazarNathanOrg/repo1) | <no description> | 0 | 2025-04-30T04:11:16Z |
+| [repo2](https://github.com/EleazarNathanOrg/repo2) | <no description> | 0 | 2025-04-30T04:11:30Z |
+| [mytemplate](https://github.com/EleazarNathanOrg/mytemplate) | <no description> | 0 | 2025-04-30T04:14:02Z |
+
+
+</details>
+
+Created on 2025-04-30T06:30:54+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+
